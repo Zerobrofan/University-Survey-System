@@ -20,3 +20,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="100" height="100"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="100" height="100"/>
 </div>
+
+## ⚙ Installation
+To preview the project locally, follow these steps:
+
+1. **Install `XAMPP` to create a local web server, download the latest version [here](https://www.apachefriends.org/).**
+2. **After installing `XAMPP`, go to the installion directory and open the folder called `htdocs` with your editor.**
+3. **Clone this repository**.
+
+   ```console
+   $ git clone https://github.com/Zerobrofan/University-Survey-System.git
+   $ cd University-Survey-System
+   ```
+4. **Start the `XAMPP` server**
+
+   ```console
+   $ nox -s docs
+   ```
