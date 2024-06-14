@@ -34,3 +34,12 @@ To preview the project locally, follow these steps:
    ```
 4. **Start running both `Apache` and `MySQL` from the `XAMPP Control Panel`.**
 5. **Import the database file `survey_db.sql` in the `localhost/phpmyadmin/` dashboard.**
+6. **Finally, type the following in your browser address bar:**
+   ```console
+   localhost/University-Survey-System/login.php
+   ```
+   **and use the following `admin` credentials:**
+   ```console
+   Username: admin@admin.com
+   Password: 12345
+   ```
