@@ -32,8 +32,5 @@ To preview the project locally, follow these steps:
    $ git clone https://github.com/Zerobrofan/University-Survey-System.git
    $ cd University-Survey-System
    ```
-4. **Start the `XAMPP` server**
-
-   ```console
-   $ nox -s docs
-   ```
+4. **Start running both `Apache` and `MySQL` from the `XAMPP Control Panel`.**
+5. **Import the database file `survey_db.sql` in the `localhost/phpmyadmin/` dashboard.**
